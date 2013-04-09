@@ -1,0 +1,5 @@
+# Social Authority Demo Client in C 
+
+This is a demo client for the [Follower Wonk Social Authority API][1] written in C.
+
+[1]: http://github.com/seomoz/Social-Authority-SDK
